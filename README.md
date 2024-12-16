@@ -15,7 +15,8 @@
 
 1. Файл `main.html`: содержит HTML-шаблон для страницы "Главная", согласно прототипа из ТЗ:
 ![Прототип для страницы "Главная"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/fbf17291e774624c7457c956431f7573.png)
-2. Файл.....
+2. Файл `catalog.html`: содержит HTML-шаблон для страницы "Каталог", согласно прототипа из ТЗ:
+![Прототип для страницы "Главная"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/c7746654406565828ad2810308e2050f.png)
 
 
 ## 3. Установка проекта:
