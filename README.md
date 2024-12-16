@@ -22,6 +22,9 @@
 3. Файл `category.html`: содержит HTML-шаблон для страницы "Категория", согласно прототипа из ТЗ:
 ![Прототип для страницы "Категория"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/583a50ff617df5f00b6c897d1f467eb3.png)
 
+4. Файл `contacts.html`: содержит HTML-шаблон для страницы "Контакты", согласно прототипа из ТЗ:
+![Прототип для страницы "Контакты"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/f191a2cdfe472fd34a2bdd0a53c9f9a0.png)
+
 
 ## 3. Установка проекта:
 1. Клонируйте репозиторий:
