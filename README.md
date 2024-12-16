@@ -15,8 +15,12 @@
 
 1. Файл `main.html`: содержит HTML-шаблон для страницы "Главная", согласно прототипа из ТЗ:
 ![Прототип для страницы "Главная"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/fbf17291e774624c7457c956431f7573.png)
+
 2. Файл `catalog.html`: содержит HTML-шаблон для страницы "Каталог", согласно прототипа из ТЗ:
-![Прототип для страницы "Главная"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/c7746654406565828ad2810308e2050f.png)
+![Прототип для страницы "Каталог"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/c7746654406565828ad2810308e2050f.png)
+
+3. Файл `category.html`: содержит HTML-шаблон для страницы "Категория", согласно прототипа из ТЗ:
+![Прототип для страницы "Категория"](https://cdn-user36618.skyeng.ru/skyconvert/unsafe/fit-in/1368x/https://cdn-user12724.skyeng.ru/image/583a50ff617df5f00b6c897d1f467eb3.png)
 
 
 ## 3. Установка проекта:
