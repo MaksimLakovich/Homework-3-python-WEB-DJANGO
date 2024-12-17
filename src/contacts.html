@@ -107,6 +107,25 @@
         </div>
     </div>
 </div>
+<form method="POST" action="/">
+    <div class="mb-2">
+        <label for="name" class="form-label">Имя</label>
+        <input type="text" class="form-control" id="name" name="name" required>
+    </div>
+    <div class="mb-2">
+        <label for="email" class="form-label">Почта</label>
+        <div class="input-group">
+            <span class="input-group-text" id="inputGroupPrepend">@</span>
+            <input type="email" class="form-control" id="email" name="email" required>
+        </div>
+    </div>
+    <div class="mb-2">
+        <label for="message" class="form-label">Сообщение</label>
+        <textarea class="form-control" id="message" name="message" rows="2" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Отправить</button>
+</form>
+
 
 <!-- Подключение JS для работы Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
