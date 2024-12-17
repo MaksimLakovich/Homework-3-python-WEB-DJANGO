@@ -68,21 +68,24 @@
                 <div class="col-md-6">
                     <div class="card">
                         <div class="card-body">
-                            <form>
+                            <form method="POST" action="/">
                                 <div class="mb-2">
                                     <label for="validationCustom01" class="form-label">Имя</label>
-                                    <input type="text" class="form-control" id="validationCustom01" value="" required>
+                                    <input type="text" class="form-control" id="validationCustom01" name="name" value=""
+                                           required>
                                 </div>
                                 <div class="mb-2">
                                     <label for="exampleFormControlInput1" class="form-label">Почта</label>
                                     <div class="input-group">
                                         <span class="input-group-text" id="inputGroupPrepend">@</span>
-                                        <input type="email" class="form-control" id="exampleFormControlInput1" required>
+                                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                                               name="email" required>
                                     </div>
                                 </div>
                                 <div class="mb-2">
                                     <label for="exampleFormControlTextarea1" class="form-label">Сообщение</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" name="message"
+                                              rows="2"></textarea>
                                 </div>
                                 <button type="submit" class="btn btn-primary">Отправить</button>
                             </form>
